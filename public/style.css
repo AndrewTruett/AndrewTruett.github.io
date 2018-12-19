@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background-color: #eee;
+}
+
+.info {
+  font-family: Aleo;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+#year-label, #year-text {
+  display: inline;
+  font-size: 16px;
+  margin-left: 1px;
+}
+
+#year-label {
+  margin-left: 375px;
+}
+
+.title {
+  font-weight: lighter;
+  font-family: Aleo;
+  font-size: 22px;
+  text-anchor: middle;
+}
+
+.bar {
+  fill: Maroon;
+  stroke: Black;
+}
+
+.bar:hover {
+  fill: Brown;
+  stroke: Black;
+}
+
+.axis line{
+  stroke: Grey;
+}
+
+.axis path{
+  stroke: Grey;
+}
+
+.axis text{
+  fill: Grey;
+  font-size: 12px;
+  font-family: Helvetica;
+}
