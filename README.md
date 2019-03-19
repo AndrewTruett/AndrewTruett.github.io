@@ -1,4 +1,3 @@
-# New-York-State-Crime-Visualization
 ## Visualization of Index Crime within New York State
 The goal of this project is to visualize crime statistics in New York State, at the county level using D3.js
 
