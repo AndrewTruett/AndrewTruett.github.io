@@ -16,7 +16,7 @@ var path = d3.geoPath()
     .projection(projection);
 
 // Load the topojson and the population data
-  var counties = "https://raw.githubusercontent.com/umbcvis/classes/master/class-14/counties.json";
+  var counties = "https://raw.githubusercontent.com/AndrewTruett/datasets/master/counties.json";
   var crime = "https://raw.githubusercontent.com/AndrewTruett/datasets/master/Index_Crimes_by_County_and_Agency__Beginning_1990.csv";
 
   var indexTotal = {}; //Needed outside the ready function so the slider can see it
