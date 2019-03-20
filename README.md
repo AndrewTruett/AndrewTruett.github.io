@@ -17,7 +17,7 @@ Deployed using Heroku [here](https://peaceful-earth-47469.herokuapp.com/).
 
 Use the slider to filter by year.
 
-Click counties to see break down of index crime.
+Click counties to see a break down of index crime.
 
 ## Data Sources
 [Index crime data source](https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq)
