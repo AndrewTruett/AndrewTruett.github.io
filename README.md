@@ -1,5 +1,7 @@
 ## Visualization of Index Crime within New York State
-The goal of this project is to visualize crime statistics in New York State, at the county level using D3.js
+The goal of this project is to visualize crime statistics in New York State, at the county level using D3.js.
+
+Deployed using Heroku [here](https://peaceful-earth-47469.herokuapp.com/).
 
 ## Crime Statistics Examined
 1. Murder
@@ -10,6 +12,16 @@ The goal of this project is to visualize crime statistics in New York State, at 
 6. Larceny
 7. Motor Vehicle Theft
 
+## Usage
+[View here](https://peaceful-earth-47469.herokuapp.com/)
+
+Use the slider to filter by year.
+
+Click counties to see break down of index crime.
+
+## Data Sources
 [Index crime data source](https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq)
 
-Deployed using Heroku [here](https://peaceful-earth-47469.herokuapp.com/).
+[Counties](https://raw.githubusercontent.com/AndrewTruett/datasets/master/counties.json)
+
+
