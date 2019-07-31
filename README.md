@@ -13,7 +13,7 @@ Deployed using Heroku [here](https://peaceful-earth-47469.herokuapp.com/).
 7. Motor Vehicle Theft
 
 ## Usage
-[View here](https://peaceful-earth-47469.herokuapp.com/)
+[View here](https://peaceful-earth-47469.herokuapp.com/) (May take a few seconds to load)
 
 Use the slider to filter by year.
 
